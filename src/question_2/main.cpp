@@ -1,4 +1,4 @@
-#include "question2.cpp"
+#include "question2.h"
 #include <iostream>
 #include <string>
 

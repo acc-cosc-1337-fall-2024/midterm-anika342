@@ -1,5 +1,5 @@
-//#include "question4.h"
-#include "question4.cpp"
+#include "question4.h"
+//#include "question4.cpp"
 #include <iostream>
 #include <string>
 
@@ -45,7 +45,7 @@ int main()
 			}
 			else
 			{
-				menuSelection == 1;
+				menuSelection = 1;
 			}
 		}
 
